@@ -5,5 +5,7 @@
 </template>
 
 <style lang="scss">
-@import './style/common'
+*{
+  margin: 0;
+}
 </style>
